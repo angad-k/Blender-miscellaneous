@@ -12,7 +12,8 @@ I have also made a little animated clip of the same that you can watch [here](ht
 
 ### Rock :new_moon:
 Starting from a sphere, the rock is completely designed using procedural nodes. Grass is added using particle system and volumetric lighting is added in the later renders.
-I have iteratively improved the renders as shown below : 
+I have iteratively improved the renders as shown below :
+
 **Iteration 1**
 ![Rock Iteration 1](https://github.com/angad-k/Blender-shaders/blob/master/renders/da_rock.png)
 **Iteration 2**
