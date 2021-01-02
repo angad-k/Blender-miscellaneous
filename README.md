@@ -1,4 +1,4 @@
-# Blender Shaders 
+# Miscellaneous Blender Projects 
 
 This is a collection of blender projects that I have made while learning how to use the shader graphs and other stuff. 
 Though I have mainly focused on trying various setups in shader graphs, I have also included other stuff in here like volumetric lighting, particle systems, etc.
