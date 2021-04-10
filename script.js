@@ -11,6 +11,7 @@
 
     function incrementCounter() {
         counter++;
+        document.getElementById("loader").style.width = '' + counter/len*100 + '%'
         if ( counter === len ) {
             document.getElementById("loading-banner").remove()
         }
