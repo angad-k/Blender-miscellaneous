@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    background-color: #000;
 }
 .top-banner
 {
@@ -8,10 +9,12 @@
     font-family: 'Space Mono', monospace;
     padding-top: 1%;
     margin-bottom: 1%;
+    color: #ffffff;
 }
 #banner-hr
 {
-    border: 1px solid black;
+    color: #ffffff;
+    border: 1px solid #ffffff;
     margin-bottom: 1%;
     animation-name: hr-anim;
     animation-duration: 1s;
