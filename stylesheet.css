@@ -84,6 +84,22 @@
     margin: 0;
 }
 
+#loading-banner
+{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center; 
+    font-family: 'Space Mono', monospace;   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    z-index: 100;
+}
+
 @media only screen and (orientation : portrait), (max-width : 600px) 
 {
     h1
